@@ -22,7 +22,7 @@ Seluruh program dalam repository ini dikembangkan menggunakan bahasa pemrograman
 
 **Langkah 2:** Clone repositori ini ke komputer Anda:
 
-**Langkah 3:** git clone https://github.com/LamberthPaulinusRumpaidus/python.git
+**Langkah 3:** git clone https://github.com/LamberthRumpaidus/python.git
 
 **Langkah 4:** cd python
 
