@@ -8,7 +8,7 @@ Repository "python" ini berisi berbagai program yang dikembangkan dengan menggun
 ---
 ## Tentang Penulis
 
-Repository ini dibuat oleh [lamberthpaulinusrumpaidus](https://github.com/lamberthpaulinusrumpaidus), seorang pengembang perangkat lunak yang memiliki minat dalam bahasa pemrograman Python dan berbagi berbagai program yang dikembangkan dengan bahasa ini.
+Repository ini dibuat oleh [lamberthrumpaidus](https://github.com/lamberthrumpaidus), seorang pengembang perangkat lunak yang memiliki minat dalam bahasa pemrograman Python dan berbagi berbagai program yang dikembangkan dengan bahasa ini.
 
 ---
 ## Bahasa Pemrograman
